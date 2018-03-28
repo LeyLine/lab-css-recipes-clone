@@ -1,4 +1,13 @@
 header {
 background-image: url(../images/apple-pie.jpg);
 height: 590px;
+background-size: 100% 127%;
+}
+
+h1 {
+  margin-top: 0px;
+}
+
+body {
+  margin: 0px;
 }
