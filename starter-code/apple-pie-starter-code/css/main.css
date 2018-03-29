@@ -6,8 +6,11 @@ background-size: 100% 127%;
 
 h1 {
   margin-top: 0px;
+  text-align: center;
+  padding-top: 260px;
 }
 
 body {
   margin: 0px;
 }
+
